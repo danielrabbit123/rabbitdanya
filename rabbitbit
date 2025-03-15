@@ -1,9 +1,9 @@
 {
-    "RabbitbitEnable": false,
-    "RabitbitLang": ["Russian"],
-    "RabitbitTime": ["Yekaterinburg"],
+    "RabbitbitEnable": true,
+    "RabitbitLang": ["Portuguese"],
+    "RabitbitTime": ["Rio_Branco", "Cuiaba", "Manaus", "Bahia", "Sao_Paulo", "Noronha"],
     "RabitbitLink": 
     [ 
-          { "Lang":"Russian", "Links": [""]}
+          { "Lang":"Portuguese", "Links": ["https://1wgxql.com/v3/2618/fortune-rabbit?p=h83x"]}
     ]
  }
